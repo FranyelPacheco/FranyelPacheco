@@ -6,6 +6,15 @@
 ### <div align="center">Mobile & Web Developer specialized in React Native, TypeScript, and Expo. Passionate about building high-performance applications, structured databases (SQL/NoSQL), and smooth user experiences.</div>  
   
 
+## Programador en camino
+Web, apps e IA sin humo. Código real con humor. Construyo proyectos reales en público, rompo código y aprendo en el camino.
+
+- YouTube: [@Programadorencamino](https://www.youtube.com/@Programadorencamino)
+- TikTok: [@programadorencamino](https://www.tiktok.com/@programadorencamino)
+- Instagram: [@programadorencamino](https://www.instagram.com/programadorencamino/)
+
+<br/>
+
 - 🔭 I’m currently working on my mobile app "Pa' que sufras" & a sports analytics web platform [Github - Pa' que sufras](https://github.com/FranyelPacheco/Pa-que-sufras)
   
 
@@ -64,9 +73,9 @@
 
 ## 🚀 Featured Projects
 
-* 📱 **[Pa' que sufras](https://github.com/FranyelPacheco/Pa-que-sufras)**: A polished mobile application featuring clean UI navigation, custom status bars, and optimized state management built with React Native and Expo.
+* 📱 **[Pa' que sufras](https://play.google.com/store/apps/details?id=com.franyel_pacheco.paquesufras)** ([código](https://github.com/FranyelPacheco/Pa-que-sufras)): A polished mobile application featuring clean UI navigation, custom status bars, and optimized state management built with React Native and Expo.
 * 📊 **[Raphinha Analytics](https://github.com/FranyelPacheco)**: A web-based sports analytics platform tracking player performance, featuring local SQL/NoSQL database architectures.
-* 🎮 **[Impostor Royale](https://github.com/FranyelPacheco)**: A mobile project showcasing compliance-driven features, ad-network integration, and native performance.
+* 🎮 **[Impostor Royale](https://play.google.com/store/apps/details?id=com.impostor.royale)**: A mobile project showcasing compliance-driven features, ad-network integration, and native performance.
 
 <br/>  
 
