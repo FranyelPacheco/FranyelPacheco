@@ -1,114 +1,27 @@
-<div align="center">
-<img src="https://i.pinimg.com/1200x/d4/3f/e2/d43fe2ecda4d5792f390fc9c314af8b0.jpg" align="center" style="width: 70%" />
-</div>  
-  
+# Franyel Pacheco · Programador en camino
 
-### <div align="center">Mobile & Web Developer specialized in React Native, TypeScript, and Expo. Passionate about building high-performance applications, structured databases (SQL/NoSQL), and smooth user experiences.</div>  
-  
+Web, apps e IA sin humo. Construyo proyectos reales en público y cuento cómo se rompen.
 
-## Programador en camino
-Web, apps e IA sin humo. Código real con humor. Construyo proyectos reales en público, rompo código y aprendo en el camino.
+## Proyectos publicados
+- 📱 **[Pa' que sufras](https://play.google.com/store/apps/details?id=com.franyel_pacheco.paquesufras)**: Party game móvil de tensión social con +750 cartas. React Native, Expo, Reanimated, TypeScript. [Código](https://github.com/FranyelPacheco/Pa-que-sufras)
+- 🎮 **[Impostor Royale](https://play.google.com/store/apps/details?id=com.impostor.royale)**: Deducción social offline (*Pass & Play*) para 3 a 10 personas en un teléfono. React Native, Expo, TypeScript.
+- 🌐 **[Portafolio Web](https://mi-portafolio-eta.vercel.app/)**: Web personal interactiva con efectos HyperText, filtrado de proyectos y modo oscuro. React 19, TypeScript, Tailwind CSS. [Código](https://github.com/FranyelPacheco/mi-portafolio)
 
-- YouTube: [@Programadorencamino](https://www.youtube.com/@Programadorencamino)
-- TikTok: [@programadorencamino](https://www.tiktok.com/@programadorencamino)
-- Instagram: [@programadorencamino](https://www.instagram.com/programadorencamino/)
+## Con qué construyo
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-<br/>
+## Dónde encontrarme
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Programadorencamino)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@programadorencamino)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/programadorencamino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/franyel-franyel)
 
-- 🔭 I’m currently working on my mobile app "Pa' que sufras" & a sports analytics web platform [Github - Pa' que sufras](https://github.com/FranyelPacheco/Pa-que-sufras)
-  
-
-- 🌱 I’m currently learning advanced Performance Optimization in React Native & Database Scalability
-  
-
-- ❓ Ask me about React Native, Expo, TypeScript, and Mobile UI/UX
-  
-
-- ⚡ Fun fact: I am a passionate FC Barcelona fan and love tactical, possession-based football!
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## 🚀 Featured Projects
-
-* 📱 **[Pa' que sufras](https://play.google.com/store/apps/details?id=com.franyel_pacheco.paquesufras)** ([código](https://github.com/FranyelPacheco/Pa-que-sufras)): A polished mobile application featuring clean UI navigation, custom status bars, and optimized state management built with React Native and Expo.
-* 📊 **[Raphinha Analytics](https://github.com/FranyelPacheco)**: A web-based sports analytics platform tracking player performance, featuring local SQL/NoSQL database architectures.
-* 🎮 **[Impostor Royale](https://play.google.com/store/apps/details?id=com.impostor.royale)**: A mobile project showcasing compliance-driven features, ad-network integration, and native performance.
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/FranyelPacheco" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/franyel-franyel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FranyelPacheco&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=FranyelPacheco&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+> *Hoy programamos bien, pero mañana lo haremos mejor.*
