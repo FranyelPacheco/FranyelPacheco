@@ -19,14 +19,17 @@ Construyo proyectos reales en público, rompo código y aprendo en el camino.
 ## 🛠️ Tecnologías y Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,postgres,nodejs,git,github,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,postgres,nodejs,git,github,vercel" />
   </a>
 </p>
 
 ## 📬 Contacto y Redes
 
-- 💼 **Profesional:** [franyel.pachecocv@gmail.com](mailto:franyel.pachecocv@gmail.com) · [LinkedIn](https://linkedin.com/in/franyel-franyel)
-- 🎬 **Contenido:** [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Programadorencamino) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@programadorencamino) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/programadorencamino)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:franyel.pachecocv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/franyel-franyel)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Programadorencamino)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@programadorencamino)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/programadorencamino)
 
 ---
 > *Hoy programamos bien, pero mañana lo haremos mejor.*
