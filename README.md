@@ -9,7 +9,7 @@ Web, apps e IA sin humo. Construyo proyectos reales en público y cuento cómo s
 ## Proyectos publicados
 - 📱 **[Pa' que sufras](https://play.google.com/store/apps/details?id=com.franyel_pacheco.paquesufras)**: Party game móvil de tensión social con +750 cartas. React Native, Expo, Reanimated, TypeScript. [Código](https://github.com/FranyelPacheco/Pa-que-sufras)
 - 🎮 **[Impostor Royale](https://play.google.com/store/apps/details?id=com.impostor.royale)**: Deducción social offline (*Pass & Play*) para 3 a 10 personas en un teléfono. React Native, Expo, TypeScript.
-- 🌐 **[Portafolio Web](https://mi-portafolio-eta.vercel.app/)**: Web personal interactiva con efectos HyperText, filtrado de proyectos y modo oscuro. React 19, TypeScript, Tailwind CSS. [Código](https://github.com/FranyelPacheco/mi-portafolio)
+- 🌐 **[Portafolio Web](https://mi-portafolio-seven-psi.vercel.app)**: Web personal interactiva con efectos HyperText, filtrado de proyectos y modo oscuro. React 19, TypeScript, Tailwind CSS. [Código](https://github.com/FranyelPacheco/mi-portafolio)
 
 ## Con qué construyo
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
