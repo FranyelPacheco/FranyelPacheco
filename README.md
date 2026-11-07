@@ -23,10 +23,11 @@ Construyo proyectos reales en público, rompo código y aprendo en el camino.
   </a>
 </p>
 
-## 📬 Contacto y Redes
+## 📬 Contacto Profesional
+- ✉️ **Email:** [franyel.pachecocv@gmail.com](mailto:franyel.pachecocv@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/franyel-franyel](https://linkedin.com/in/franyel-franyel)
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:franyel.pachecocv@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/franyel-franyel)
+## 🎬 Contenido y Comunidad
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Programadorencamino)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@programadorencamino)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/programadorencamino)
