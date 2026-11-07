@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-header-banner.png" alt="Programador en camino" width="100%" />
+</p>
+
 # Franyel Pacheco · Programador en camino
 
 Web, apps e IA sin humo. Construyo proyectos reales en público y cuento cómo se rompen.
